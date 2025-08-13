@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.pr0f1t0"
-version = "0.0.1-SNAPSHOT"
+version = "0.0.1"
 
 java {
 	toolchain {
